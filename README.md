@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 allign="center">Hey there👋 I'm Lucas Manfredi</h1>
+<h3 allign="center">I'm a developer from Argentina</h3>
+
 
 <!--
 **LucasManf/LucasManf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
