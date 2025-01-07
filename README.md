@@ -1,5 +1,5 @@
-<h1 allign="center">Hey there👋 I'm Lucas Manfredi</h1>
-<h3 allign="center">I'm a developer from Argentina</h3>
+<h1 align="center">Hey there👋 I'm Lucas Manfredi</h1>
+<h3 align="center">I'm a developer from Argentina</h3>
 
 
 <!--
