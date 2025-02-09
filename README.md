@@ -52,6 +52,6 @@ Here are some ideas to get you started:
   </a>
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svgt" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
   </a> 
 </p>
