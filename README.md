@@ -56,6 +56,17 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+<!-- GitHub Streak -->
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmanf&theme=dark" alt="GitHub Streak" />
+  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmanf&show_icons=true&locale=en&layout=compact" alt="LucasManf" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmanf&show_icons=true&locale=en" alt="LucasManf" /></p>
+  <!-- Top Languages -->
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmanf&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  </p>
+
+  <!-- General Stats -->
+  <p style="clear: both;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmanf&show_icons=true&theme=dark&locale=en" alt="General Stats" />
+  </p>
