@@ -55,3 +55,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> 
   </a> 
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmanf&show_icons=true&locale=en&layout=compact" alt="LucasManf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmanf&show_icons=true&locale=en" alt="LucasManf" /></p>
