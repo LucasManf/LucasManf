@@ -58,6 +58,9 @@ Here are some ideas to get you started:
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/> 
   </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/> 
+  </a> 
 </p>
 
 <!-- GitHub Streak -->
