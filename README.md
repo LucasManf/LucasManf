@@ -71,7 +71,9 @@ Here are some ideas to get you started:
 -->
 
   <!-- Top Languages -->
-  
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmanf&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  </p>
 
   <!-- General Stats -->
   <p style="clear: both;">
