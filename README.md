@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   
 - 📫 How to reach me: **lucasmanfredij@gmail.com**
 
+- 👨🏽‍💻 My web page: https://lucas-manfredi.vercel.app
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-manfredi-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
